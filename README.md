@@ -23,29 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+História no estilo Jornada do Herói de um programador que utiliza IA em seu dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao ChatGPT que criasse a história com 200 palavras.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+João, um programador brilhante, trabalhava incansavelmente em uma empresa de tecnologia, sempre buscando maneiras de aprimorar seu código e otimizar processos. Um dia, ele descobriu uma Inteligência Artificial inovadora que prometia revolucionar a programação. Entusiasmado, João começou a usar a IA em seu dia a dia, percebendo rapidamente um aumento significativo em sua produtividade e qualidade de trabalho.
+
+No entanto, à medida que dependia mais da IA, ele começou a notar falhas sutis. Bugs misteriosos e comportamentos inesperados surgiam, ameaçando projetos importantes. João enfrentava uma escolha difícil: abandonar a IA e voltar aos métodos tradicionais ou mergulhar profundamente no algoritmo para entender suas falhas.
+
+Optando pelo desafio, João dedicou noites e fins de semana para desvendar os mistérios da IA. Ele estudou incansavelmente, experimentou diversas abordagens e, finalmente, descobriu a origem dos problemas. Com paciência e perseverança, corrigiu os erros e aprimorou o algoritmo, tornando-o mais robusto e confiável.
+
+Sua jornada não passou despercebida. Colegas e superiores admiraram sua determinação e habilidade. João não apenas salvou projetos importantes, mas também se tornou um especialista reconhecido em Inteligência Artificial. Ele passou a ajudar outros programadores a integrar IA de forma eficaz, transformando sua jornada pessoal em uma fonte de inspiração e crescimento para toda a comunidade.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+IA facilita muito o processo criativo humano
